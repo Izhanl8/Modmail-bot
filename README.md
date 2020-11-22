@@ -5,8 +5,9 @@
  
  
  Commands: 
- 
+ ```
  <prefix> + helpmodmail
  <prefix> + setup
  <prefix> + close
  <prefix> + open
+```
