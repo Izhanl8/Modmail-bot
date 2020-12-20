@@ -1,8 +1,9 @@
-///////////////////TICKET REACCTION///////////////////////
+///////////////////ModMail Bot///////////////////////
 
 const discord = require("discord.js");
 
 const { token, prefix, ServerID } = require("./config.json");
+const client = new Client();
 
 
 
