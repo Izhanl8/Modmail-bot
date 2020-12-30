@@ -2,5 +2,6 @@
   "token": "your token bot",
   "prefix": "your prefix",
   "color": "your color",
-  "OwnerID": "your id"
+  "ServerID": "your server id",
+  
 }
